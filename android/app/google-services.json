@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "595475256228",
+    "project_id": "nectar-11",
+    "storage_bucket": "nectar-11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595475256228:android:57355b71dae9a0ae992731",
+        "android_client_info": {
+          "package_name": "com.example.groceries_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595475256228-u9opmfi65ja6u91pequ2ldpv3ur8ci7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groceries_app",
+            "certificate_hash": "19fbaf189c034408c1ae2a0f4fdc89e21b183b06"
+          }
+        },
+        {
+          "client_id": "595475256228-tddondfj9enff55h2q18nfa2g43f9k77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB89y0Nb7zbae1nsGuGq8FeLUqvZQ-trLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595475256228-tddondfj9enff55h2q18nfa2g43f9k77.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595475256228-rimenb601gv4m2aepn483504vnr4re0g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.groceriesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
